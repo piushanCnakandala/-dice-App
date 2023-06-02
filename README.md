@@ -1,6 +1,6 @@
 # dicee
 
-A new Flutter project.
+![Screenshot_20230602_131342](https://github.com/piushanCnakandala/dice-App/assets/91194567/4f246e54-3b94-48ab-8f6b-7893bc5ee470)
 
 ## Getting Started
 
